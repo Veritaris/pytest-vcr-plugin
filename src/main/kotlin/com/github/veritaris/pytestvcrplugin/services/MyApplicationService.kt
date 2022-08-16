@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.veritaris.pytestvcrplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.veritaris.pytestvcrplugin.MyBundle
 
 class MyApplicationService {
 
